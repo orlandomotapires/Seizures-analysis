@@ -1,0 +1,2 @@
+Version,Patient,Recording,Startdate,Startime,Bytes,Reserved,NumRec,Duration,NumSig
+0       ,                                                                                ,                                                                                ,01.01.16,19.00.44,9216    ,                                            ,48557,1       ,35
